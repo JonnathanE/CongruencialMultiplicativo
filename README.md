@@ -9,6 +9,8 @@ _El siguiente proyecto es un programa sencillo en JAVA usando JOptionPane, para 
  AL momento de ejecutar el programa, aparecera un seleccionador de opciones el cual el usuario debera ingresar el numero 
  correspondiente:
  
+ ![Selección_036](https://user-images.githubusercontent.com/33469147/57514565-6552be00-72d6-11e9-8f75-aa1149ac300f.png)
+ 
  - ***Opcion 1:*** En esta opcion se utilizara el **sistema binario** en donde se calculara el multiplicador (a = 8t + 3) y 
  el modulo (m = 2^g). El usuario de be de ingresar los valores de 't' y de 'g'.
  
