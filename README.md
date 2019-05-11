@@ -59,15 +59,15 @@ _El siguiente proyecto es un programa sencillo en JAVA usando JOptionPane, para 
   
   **4.  OPCION 3**
   
-  - Debe de ingresar el valor fianl de la semilla
+  - Debe de ingresar el valor final de la semilla
   
   ![1y1](https://user-images.githubusercontent.com/33469147/57515431-42c1a480-72d8-11e9-80e4-7e8ae6990ce5.png)
   
-  - Debe de ingresar el valor fianl del multiplicador
+  - Debe de ingresar el valor final del multiplicador
   
   ![3y2](https://user-images.githubusercontent.com/33469147/57516668-c4b2cd00-72da-11e9-9e40-c1579e98fefb.png)
   
-  - Debe de ingresar el valor fianl del modulo
+  - Debe de ingresar el valor final del modulo
   
   ![3y3](https://user-images.githubusercontent.com/33469147/57516702-d300e900-72da-11e9-9c86-566d2dba3c25.png)
   
