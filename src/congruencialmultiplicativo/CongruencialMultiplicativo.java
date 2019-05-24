@@ -164,15 +164,21 @@ public class CongruencialMultiplicativo {
     */
     public static void calcular(int x, int a, int m) {
         int r = 0; // Resultado
-        int i = 0; // Contador
-        int x2 = x;
+        int i = 0,j=0; // Contador
+        int x2 = x, aux=0;
+        m = m/4;
         System.out.println("n\tX");
-        while (r != x2) {
+        while (i < m) {
             r = (a * x) % m;
             System.out.println(i + "\t" + r);
             x = (int) r;
+            if(i == 0)
+                aux = r;
+            if(r==aux && i!=0)
+                j++;
             i++;
         }
+        System.out.println("Ciclos: "+j);
     }
 
     /*
